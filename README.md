@@ -2,7 +2,7 @@
 FRONT-END ![](https://img.shields.io/badge/-REACT-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-REDUX-darkviolet?style=for-the-badge&logo=Redux)
-![](https://img.shields.io/badge/FRONT-REDUXSAGA-999999?style=for-the-badge&logo=Redux-Saga)
+![](https://img.shields.io/badge/-REDUXSAGA-6EBE49?style=for-the-badge&logo=Redux-Saga)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning1315&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ning1315)</br>
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ning1315&theme=dark)
