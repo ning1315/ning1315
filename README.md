@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Charlie
+### Hi there 👋      My name is Charlie
 #### FRONT-END 
 ![](https://img.shields.io/badge/FE-TypeScript-3178C6?style=for-the-badge&logo=TypeScript)
 ![](https://img.shields.io/badge/FE-REACT-00AEFF?style=for-the-badge&logo=React)
