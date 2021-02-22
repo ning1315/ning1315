@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=ning1315&show_icons=true&theme=dark&hide_title=true)](https://github.com/ning1315)</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning1315&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ning1315)</br>
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ning1315&theme=dark)
 
