@@ -7,12 +7,12 @@
 ![](https://img.shields.io/badge/-REDUXSAGA-6EBE49?style=for-the-badge&logo=Redux-Saga)
 
 ## BACK-END 
-![](https://img.shields.io/badge/BACK-NODEJS-339933?style=for-the-badge&logo=Node.js)
-![](https://img.shields.io/badge/BACK-MySQL-4479A1?style=for-the-badge&logo=MySQL)
-![](https://img.shields.io/badge/BACK-SEQUELIZE-3178C6?style=for-the-badge&logo=CodeSandbox)
+![](https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=Node.js)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL)
+![](https://img.shields.io/badge/-SEQUELIZE-3178C6?style=for-the-badge&logo=CodeSandbox)
 
 ## DEPLOY
-![](https://img.shields.io/badge/BACK-AWS-FF9900?style=for-the-badge&logo=Amazon)
+![](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning1315&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ning1315)</br>
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ning1315&theme=dark)
