@@ -1,17 +1,17 @@
-### Hi there 👋
-## FRONT-END 
+### Hi there 👋 My name is Charlie
+#### FRONT-END 
 ![](https://img.shields.io/badge/FE-TypeScript-3178C6?style=for-the-badge&logo=TypeScript)
 ![](https://img.shields.io/badge/FE-REACT-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/FE-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/FE-REDUX-darkviolet?style=for-the-badge&logo=Redux)
 ![](https://img.shields.io/badge/FE-REDUXSAGA-6EBE49?style=for-the-badge&logo=Redux-Saga)
 
-## BACK-END 
+#### BACK-END 
 ![](https://img.shields.io/badge/BE-NODEJS-339933?style=for-the-badge&logo=Node.js)
 ![](https://img.shields.io/badge/BE-MySQL-4479A1?style=for-the-badge&logo=MySQL)
 ![](https://img.shields.io/badge/BE-SEQUELIZE-3178C6?style=for-the-badge&logo=CodeSandbox)
 
-## DEPLOY
+#### DEPLOY
 ![](https://img.shields.io/badge/DP-AWS-FF9900?style=for-the-badge&logo=Amazon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning1315&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ning1315)</br>
