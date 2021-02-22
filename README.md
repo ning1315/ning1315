@@ -1,6 +1,6 @@
 ### Hi there 👋
 FRONT-END 
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=Type-Script)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript)
 ![](https://img.shields.io/badge/-REACT-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-REDUX-darkviolet?style=for-the-badge&logo=Redux)
