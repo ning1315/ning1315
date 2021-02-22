@@ -1,5 +1,5 @@
 ### Hi there 👋
-FRONT-END ![](https://img.shields.io/badge/FRONT-REACT-00AEFF?style=for-the-badge&logo=React)
+FRONT-END ![](https://img.shields.io/badge/REACT-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/FRONT-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/FRONT-REDUX-darkviolet?style=for-the-badge&logo=Redux)
 ![](https://img.shields.io/badge/FRONT-REDUXTHUNK-darkviolet?style=for-the-badge&logo=Redux)
