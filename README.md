@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fning1315%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ning1315)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ning1315)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=descholar-ceo&show_icons=true&theme=dark&hide_title=true)](https://github.com/ning1315)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning1315&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ning1315)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ning1315&theme=dark)
 
 <!--
 **ning1315/ning1315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
