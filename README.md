@@ -1,4 +1,8 @@
 ### Hi there 👋
+FRONT-END ![](https://img.shields.io/badge/FRONT-REACT-00AEFF?style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/FRONT-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/FRONT-REDUX-darkviolet?style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/FRONT-REDUXTHUNK-darkviolet?style=for-the-badge&logo=Redux)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning1315&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ning1315)</br>
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ning1315&theme=dark)
