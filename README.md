@@ -5,7 +5,8 @@
 ![](https://img.shields.io/badge/FE-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/FE-REDUX-darkviolet?style=for-the-badge&logo=Redux)
 ![](https://img.shields.io/badge/FE-REDUXSAGA-6EBE49?style=for-the-badge&logo=Redux-Saga)
-![](https://img.shields.io/badge/FE-SASS-CC6699?style=for-the-badge&logo=Sass)
+![](https://img.shields.io/badge/FE-SASS-CC6699?style=for-the-badge&logo=Sass)</br>
+![](https://img.shields.io/badge/FE-GraphQL-CC6699?style=for-the-badge&logo=Graph-QL)
 
 #### BACK-END 
 ![](https://img.shields.io/badge/BE-NODEJS-339933?style=for-the-badge&logo=Node.js)
